@@ -22,7 +22,7 @@ The goal was to analyze sales performance across time, regions, brands, and prod
 - **Total Sales Amount**
 
 All KPIs are displayed using unified formatting for better readability and comparison.
-
+![Dashboard Overview](screenshots/01_overview.png)
 ---
 
 ## Dashboard Features
