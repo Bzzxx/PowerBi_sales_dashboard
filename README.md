@@ -41,7 +41,7 @@ All KPIs are displayed using unified formatting for better readability and compa
 ---
 
 ### Overview
-
+This dashboard was created without publishing to Power BI Service. 
 Interactive dashboard presented here🔗 **[Sales_Report](https://drive.google.com/file/d/1YUYj4MmuKGqPKeM4GIX2BXcR7yr7wyH5/view?usp=sharing)**
 
 ---
@@ -51,9 +51,3 @@ Interactive dashboard presented here🔗 **[Sales_Report](https://drive.google.c
 - **DAX** (measures for totals, averages, percentages)
 - Data modeling with fact and dimension tables
 - UX-focused dashboard design
-
----
-
-## 🚀 Notes
-This dashboard was created without publishing to Power BI Service.  
-All visuals and interactions are demonstrated via screenshots and the `.pbix` file.
