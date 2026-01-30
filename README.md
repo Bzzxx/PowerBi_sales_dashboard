@@ -1,6 +1,5 @@
 # Sales Report — Power BI Dashboard
 
-## Project Overview
 This project presents an interactive **Sales Dashboard** built in **Power BI**.  
 The goal was to analyze sales performance across time, regions, brands, and product categories, and to present key business metrics in a clear, executive-friendly layout.
 
